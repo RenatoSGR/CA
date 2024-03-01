@@ -1,0 +1,12 @@
+C:\Users\renribeiro\OneDrive - Microsoft\Desktop\Clientes\CA\sdk\HelloDocker8\bin\Release\net8.0\linux-x64\publish\HelloDocker8
+C:\Users\renribeiro\OneDrive - Microsoft\Desktop\Clientes\CA\sdk\HelloDocker8\bin\Release\net8.0\linux-x64\publish\appsettings.Development.json
+C:\Users\renribeiro\OneDrive - Microsoft\Desktop\Clientes\CA\sdk\HelloDocker8\bin\Release\net8.0\linux-x64\publish\appsettings.json
+C:\Users\renribeiro\OneDrive - Microsoft\Desktop\Clientes\CA\sdk\HelloDocker8\bin\Release\net8.0\linux-x64\publish\HelloDocker8.dll
+C:\Users\renribeiro\OneDrive - Microsoft\Desktop\Clientes\CA\sdk\HelloDocker8\bin\Release\net8.0\linux-x64\publish\HelloDocker8.deps.json
+C:\Users\renribeiro\OneDrive - Microsoft\Desktop\Clientes\CA\sdk\HelloDocker8\bin\Release\net8.0\linux-x64\publish\HelloDocker8.runtimeconfig.json
+C:\Users\renribeiro\OneDrive - Microsoft\Desktop\Clientes\CA\sdk\HelloDocker8\bin\Release\net8.0\linux-x64\publish\HelloDocker8.pdb
+C:\Users\renribeiro\OneDrive - Microsoft\Desktop\Clientes\CA\sdk\HelloDocker8\bin\Release\net8.0\linux-x64\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\renribeiro\OneDrive - Microsoft\Desktop\Clientes\CA\sdk\HelloDocker8\bin\Release\net8.0\linux-x64\publish\Microsoft.OpenApi.dll
+C:\Users\renribeiro\OneDrive - Microsoft\Desktop\Clientes\CA\sdk\HelloDocker8\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\renribeiro\OneDrive - Microsoft\Desktop\Clientes\CA\sdk\HelloDocker8\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\renribeiro\OneDrive - Microsoft\Desktop\Clientes\CA\sdk\HelloDocker8\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
